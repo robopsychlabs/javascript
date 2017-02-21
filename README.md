@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# Robopsych Labs JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
